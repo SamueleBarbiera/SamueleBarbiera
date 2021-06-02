@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I am Samuele👋<h1>
+<p align="center">
+    <img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-1946887-1651585.png">
+</p>
 <h3>
   
 - 🔭 I’m currently working on a **fullstack** project
