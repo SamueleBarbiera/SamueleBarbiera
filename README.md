@@ -4,9 +4,9 @@
 </p>
 <h3>
   
-- 🔭 I’m currently working on a **fullstack** project
+- 🔭 I’m currently working on **VENM-CLI** project
   
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **NODEJS CLI**
   
 - 💬 Ask me about **Vue.js,Javascript,Html,Css,Bootstrap**...
   
