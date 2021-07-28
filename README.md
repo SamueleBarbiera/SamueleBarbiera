@@ -8,15 +8,13 @@
 
 - 🌱 I’m currently learning **NODEJS CLI**
 
-- 👯 I’m looking to collaborate on [VENM](https://github.com/SamueleBarbiera/venm-cli)
-
 - 🤝 I’m looking for help with [VENM](https://github.com/SamueleBarbiera/venm-cli)
 
 - 💬 Ask me about **Vue.js, Javascript, Html ,Css ,Bootstrap**
 
 - 📫 How to reach me **barbierasamuele01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/sambeatzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambeatzs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samuele-antonio-barbiera-bb023320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele antonio barbiera" height="30" width="40" /></a>
