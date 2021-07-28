@@ -4,12 +4,6 @@
 </p>
 <h3 align="center">A passionate fullstack js developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelebarbiera&label=Profile%20views&color=0e75b6&style=flat" alt="samuelebarbiera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelebarbiera" alt="samuelebarbiera" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sambeatzs" target="blank"><img src="https://img.shields.io/twitter/follow/sambeatzs?logo=twitter&style=for-the-badge" alt="sambeatzs" /></a> </p>
-
 - 🔭 I’m currently working on [VENM](https://github.com/SamueleBarbiera/venm-cli)
 
 - 🌱 I’m currently learning **NODEJS CLI**
