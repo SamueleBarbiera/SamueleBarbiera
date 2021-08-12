@@ -4,11 +4,11 @@
 </p>
 <h3 align="center">A passionate fullstack js developer from Italy</h3>
 
-- 🔭 I’m currently working on [VENM](https://github.com/SamueleBarbiera/venm-cli)
+- 🔭 I’m currently working on [Venmjs](https://github.com/SamueleBarbiera/venmjs)
 
 - 🌱 I’m currently learning **NODEJS CLI**
 
-- 🤝 I’m looking for help with [VENM](https://github.com/SamueleBarbiera/venm-cli)
+- 🤝 I’m looking for help with [Venmjs](https://github.com/SamueleBarbiera/venmjs)
 
 - 💬 Ask me about **Vue.js, Javascript, Html ,Css ,Bootstrap**
 
