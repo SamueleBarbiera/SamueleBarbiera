@@ -1,7 +1,7 @@
 <p align="left">
 
 ### 👨‍🚒 About me
-- ✏️ I’m currently learning **NODEJS CLI**
+- ✏️ I’m currently learning **React using TS**
 - ⚡ How to reach me **barbierasamuele01@gmail.com**
 
 ### 🔥 Project
