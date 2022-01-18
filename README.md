@@ -9,10 +9,8 @@
 - 🤝 I’m looking for help with [Venmjs](https://github.com/SamueleBarbiera/venmjs)
 
 <h3>Socials</h3>
-<a href="https://twitter.com/sambeatzs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sambeatzs" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samuele-antonio-barbiera-bb023320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele antonio barbiera" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16105959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="samuelebarbiera" height="30" width="40" /></a>
-<a href="https://instagram.com/samuelebarbiera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuelebarbiera" height="30" width="40" /></a>
 <a href="https://discord.gg/TCAx36jZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samuele#6396" height="30" width="40" /></a>
 
 <h3>Support</h3>
