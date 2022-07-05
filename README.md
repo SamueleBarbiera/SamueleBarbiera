@@ -1,11 +1,11 @@
 <p align="left">
 
 ### 👨‍🚒 About me
-- ✏️ I’m currently learning **React using TS**
+- ✏️ I’m currently learning **T3 STACK**
 - ⚡ How to reach me **barbierasamuele01@gmail.com**
 
 ### 🔥 Project
-- 🔭 I’m currently working on [Venmjs](https://github.com/SamueleBarbiera/venmjs)
+- 🔭 I’m currently working on [MyPersonalWebsite]
 - 🤝 I’m looking for help with [Venmjs](https://github.com/SamueleBarbiera/venmjs)
 
 <h3>Socials</h3>
