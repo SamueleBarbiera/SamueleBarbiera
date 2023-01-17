@@ -1,12 +1,8 @@
 <p align="left">
 
 ### 👨‍🚒 About me
-- ✏️ I’m currently learning **T3 STACK**
+- ✏️ I’m currently learning **T3 STACK** and all the typesafe stuff eheh
 - ⚡ How to reach me **barbierasamuele01@gmail.com**
-
-### 🔥 Project
-- 🔭 I’m currently working on [MyPersonalWebsite]
-- 🤝 I’m looking for help with [Venmjs](https://github.com/SamueleBarbiera/venmjs)
 
 <h3>Socials</h3>
 <a href="https://www.linkedin.com/in/samuele-antonio-barbiera-bb023320b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuele antonio barbiera" height="30" width="40" /></a>
