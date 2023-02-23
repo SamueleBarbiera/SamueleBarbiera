@@ -14,12 +14,6 @@ I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm
 -   [Linkedin](https://linkedin.com/in/samuelebarbiera)
 -   [Email](mailto:barbierasamuele01@gmail.com)
 
-## <a href="https://app.daily.dev/samuelebarbiera"><img align="right" src="https://raw.githubusercontent.com/samuelebarbiera/samuelebarbiera/devcard/devcard.svg" width="256" alt="Samuele Barbiera Valli's Dev Card"/></a>
-
-![Metrics](https://raw.githubusercontent.com/samuelebarbiera/SamueleBarbiera/github-metrics/github-metrics.svg)
-![Most used languages](https://raw.githubusercontent.com/samuelebarbiera/samuelebarbiera/github-metrics/language.svg)
-![Achievements](https://raw.githubusercontent.com/samuelebarbiera/samuelebarbiera/github-metrics/achievements.svg)
-
 ---
 
 ## Favorites Languages and Tools
