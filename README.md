@@ -1,13 +1,5 @@
 ### Hi There! Welcome to my Github Page :wave:
 
----
-
-My name is Samuele and I am a student and web designer from Delhi, India.
-
-I am the president of my school Tech Club [Exun Clan](https://exunclan.com). I'm the Co-founder of [Tricycle](https://tricycle.life) and am the Chapter Officer at the [New Delhi Space Society](https://new-delhi-space-society.github.io). I am a maintainer of [Typewind](https://github.com/mokshit06/typewind) I am a fullstack Web Developer with experience in mostly Javascript, PHP and Python.
-
----
-
 ## Connect with me
 
 -   [Website](https://personal-website-brown-chi.vercel.app/)
